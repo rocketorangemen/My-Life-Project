@@ -1,1 +1,1 @@
-# My-Life-Project
+This is the showcase of my skills using many different frameworks to create a usable and efficient app.
