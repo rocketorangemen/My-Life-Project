@@ -2,7 +2,7 @@
 const path = require("path");
 
 const express = require('express');
-const PORT = process.env.PORT || 3001;
+const PORT = process.env.PORT || 3000;
 const app = express();
 
 // Have Node serve the files for our build React app
