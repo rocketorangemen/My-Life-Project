@@ -10,7 +10,7 @@ app.use(express.static(path.resolve(__dirname, '../client')));
 
 // Handle GET requests to /api route
 app.get("/api", (req, res) => {
-    res.json({ message: "Hello from server!" });
+    res.json({ message: "Welcome to the database my friend" });
 });
 
 // All other GET requests not handled before will return our React app
