@@ -8,5 +8,7 @@ Still working with the server to get users to sign up and store their informatio
 
 To be continued...
 
+Get your next-gen console with me!
+
 
 <!-- Trying to get the React app to show the index.html 2:55pm 8/30 -->
