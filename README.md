@@ -10,5 +10,7 @@ To be continued...
 
 Get your next-gen console with me!
 
+Link to website: https://rocketorangemen.github.io/My-Life-Project/
+
 
 <!-- Trying to get the React app to show the index.html 2:55pm 8/30 -->
