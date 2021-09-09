@@ -4,15 +4,20 @@
   "description": "A website that I built in order to help people get a next-gen console. More to come... much much more.",
   "main": "server.js",
   "dependencies": {
+    "-": "0.0.1",
     "create": "^0.0.2",
     "create-react-app": "^4.0.3",
     "express": "^4.17.1",
-    "react-app": "^1.1.2"
+    "gh-pages": "^3.2.3",
+    "react-app": "^1.1.2",
+    "save-dev": "0.0.1-security"
   },
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server/index.js"
+    "start": "node server/index.js",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "repository": {
     "type": "git",
@@ -24,5 +29,5 @@
   "bugs": {
     "url": "https://github.com/rocketorangemen/My-Life-Project/issues"
   },
-  "homepage": "https://github.com/rocketorangemen/My-Life-Project#readme"
+  "homepage": "http://rocketorangemen.github.io/my-life-project"
 }
