@@ -5,7 +5,7 @@ Purpose:
 A website that I built in order to help people get a next-gen console.
 </br>
 
-Technologies
+Technologies:
 HTML
 CSS
 Express
@@ -13,7 +13,7 @@ SQL
 React
 </br>
 
-Things to do
+Things to do:
 Still working with the server to get users to sign up and store their information.
 </br>
 To be continued...
