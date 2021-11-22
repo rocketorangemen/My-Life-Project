@@ -15,6 +15,7 @@ React
 
 Things to do
 Still working with the server to get users to sign up and store their information.
+</br>
 To be continued...
 </br>
 
