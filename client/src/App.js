@@ -1,5 +1,6 @@
 import React from "react";
 import './App.css';
+// import body from './pages/components/body/index.html';
 
 function App() {
   // data const not being used
@@ -10,6 +11,7 @@ function App() {
     .then((res) => res.json())
     .then((data) => setData(data.message));
   }, []);
+  
   
   return (
     <div className="App">
